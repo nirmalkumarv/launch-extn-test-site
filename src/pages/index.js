@@ -12,7 +12,14 @@ const IndexPage = () => (
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
     
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
+
+    <button className="registration:start" data-type="registration:start" > Registration Started</button>
+    <button   className="registration:complete" data-type="registration:complete" >Registration Completed</button>
+    <button  className="login:start" data-type="login:start" >Login Started</button>
+    <button  className="login:complete" data-type="login:complete" >Login Completed</button>
+
+   
+
   </Layout>
 )
 
