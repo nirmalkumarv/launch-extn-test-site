@@ -13,7 +13,7 @@ const IndexPage = () => (
     
     </div>
 
-    <button className="registration:start" data-type="registration:start" > Registration Started</button>
+    <button className="registration:start" data-type="registration:start" > Registration Started Demo</button>
     <button   className="registration:complete" data-type="registration:complete" >Registration Completed</button>
     <button  className="login:start" data-type="login:start" >Login Started</button>
     <button  className="login:complete" data-type="login:complete" >Login Completed</button>
