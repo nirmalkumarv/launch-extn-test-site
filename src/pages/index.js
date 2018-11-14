@@ -18,7 +18,7 @@ const IndexPage = () => (
     <button  className="login:start" data-type="login:start" >Login Started</button>
     <button  className="login:complete" data-type="login:complete" >Login Completed</button>
 
-   <br><br>
+   <br/><br/>
 
 <p>
     
